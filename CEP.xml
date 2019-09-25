@@ -1,0 +1,19 @@
+<kie-server-state>
+  <controllers/>
+  <configuration>
+    <configItems/>
+  </configuration>
+  <containers>
+    <container>
+      <containerId>CEP-1.0.0</containerId>
+      <releaseId>
+        <groupId>com.myspace</groupId>
+        <artifactId>CEP</artifactId>
+        <version>1.0.0</version>
+      </releaseId>
+      <status>STARTED</status>
+      <configItems/>
+      <messages/>
+    </container>
+  </containers>
+</kie-server-state>
